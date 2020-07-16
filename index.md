@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Kyle's Site
+
+It's a work in progress
 
 You can use the [editor on GitHub](https://github.com/pykonen13/pykonen13.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
